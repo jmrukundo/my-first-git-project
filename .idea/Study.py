@@ -1,1 +1,1 @@
-print("I am trying but no so easy as I cangit  imagine")
+print("Github is not so easy as I thaught , I am trying but no so easy as I cangit)
